@@ -7,4 +7,4 @@ Topics
 > Retrieving Data, Exploratory Data Analysis, and Feature Engineering
 > Inferential Statistics and Hypothesis Testing
 
-## Project: Exploratory Data Analysis with Auto-mpg dataset which is about Mileage per gallon performances of various cars.
+##### Final Project: Exploratory Data Analysis with Auto-mpg dataset which is about Mileage per gallon performances of various cars.
