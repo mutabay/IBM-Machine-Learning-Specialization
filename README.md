@@ -1,6 +1,6 @@
 # IBM-Machine-Learning
 IBM Machine Learning Course
-coursera
+
 # 1. Exploratory Data Analysis for Machine Learning
 Topics 
 > A Brief History of Modern AI and its Applications
