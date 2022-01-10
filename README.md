@@ -4,7 +4,32 @@ IBM Machine Learning Course
 # 1. Exploratory Data Analysis for Machine Learning
 Topics 
 > A Brief History of Modern AI and its Applications
-> Retrieving Data, Exploratory Data Analysis, and Feature Engineering
-> Inferential Statistics and Hypothesis Testing
+> Exericse 1: Retrieving Data_1
+> Exericse 2: Retrieving Data_2
+> Exericse 3: Exploratory Data Analysis
+> Exericse 4: Feature Engineering
+> Exericse 5: Inferential Statistics and Hypothesis Testing
 
-##### Final Project: Exploratory Data Analysis with Auto-mpg dataset which is about Mileage per gallon performances of various cars.
+##### EDA Final Project: Exploratory Data Analysis with Auto-mpg dataset which is about Mileage per gallon performances of various cars.
+
+# 2. Supervised Machine Learning Regression
+Topics 
+> Exericse 1: Transforming Target
+> Exericse 2: Regression Train Test Split
+> Exericse 3: Cross Validation
+> Exericse 4: Regularization and Gradient Descent
+> Exericse 5: Regularization
+
+##### Supervised Machine Learning Regression Final Project:  Supervised Machine Learning Regression with Car details from Car Dekho
+
+
+# 3. Supervised Machine Learning Classification
+Topics 
+> Exericse 1: Logistic Regression and Error Metrics
+> Exericse 2: K-Nearest Neighbour
+> Exericse 3: Support Vector Machine
+> Exericse 4: Decision Trees 
+> Exericse 5: Bagging
+> Exericse 6: Boosting and Stacking
+
+##### Supervised Machine Learning Classification Final Project:  Supervised Machine Learning Classification with Heart Attack Prediction
