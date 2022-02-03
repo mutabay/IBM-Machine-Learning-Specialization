@@ -37,10 +37,10 @@ Topics
 
 # 4. Unsupervised Machine Learning
 Topics    
-> Exericse 1: K-Means Clustering
-> Exericse 2: Distance Dimensionality
-> Exericse 3: Clustering Methods   
-> Exericse 4: Dimensionality Reduction
-> Exericse 5: Non-negative Matrix Factorization   
+> Exericse 1: K-Means Clustering    
+> Exericse 2: Distance Dimensionality   
+> Exericse 3: Clustering Methods    
+> Exericse 4: Dimensionality Reduction    
+> Exericse 5: Non-negative Matrix Factorization         
   
-##### Final Project:  Unsupervised Machine Learning with New York Stock Exchange Prediction
+##### Final Project:  Unsupervised Machine Learning with New York Stock Exchange Prediction     
