@@ -10,7 +10,7 @@ Topics
 > Exericse 4: Feature Engineering   
 > Exericse 5: Inferential Statistics and Hypothesis Testing   
 
-##### EDA Final Project: Exploratory Data Analysis with Auto-mpg dataset which is about Mileage per gallon performances of various cars.    
+##### Final Project: Exploratory Data Analysis with Auto-mpg dataset.
 
 # 2. Supervised Machine Learning Regression   
 Topics    
@@ -20,7 +20,7 @@ Topics
 > Exericse 4: Regularization and Gradient Descent   
 > Exericse 5: Regularization    
 
-##### Supervised Machine Learning Regression Final Project:  Supervised Machine Learning Regression with Car details from Car Dekho   
+##### Final Project:  Supervised Machine Learning Regression with Car details from Car Dekho   
 
 
 # 3. Supervised Machine Learning Classification   
@@ -32,4 +32,15 @@ Topics
 > Exericse 5: Bagging   
 > Exericse 6: Boosting and Stacking   
   
-##### Supervised Machine Learning Classification Final Project:  Supervised Machine Learning Classification with Heart Attack Prediction    
+##### Final Project:  Supervised Machine Learning Classification with Heart Attack Prediction    
+
+
+# 4. Unsupervised Machine Learning
+Topics    
+> Exericse 1: K-Means Clustering
+> Exericse 2: Distance Dimensionality
+> Exericse 3: Clustering Methods   
+> Exericse 4: Dimensionality Reduction
+> Exericse 5: Non-negative Matrix Factorization   
+  
+##### Final Project:  Unsupervised Machine Learning with New York Stock Exchange Prediction
