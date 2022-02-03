@@ -7,7 +7,7 @@ Topics
 > Exericse 1: Retrieving Data_1   
 > Exericse 2: Retrieving Data_2     
 > Exericse 3: Exploratory Data Analysis   
-> Exericse 4: Feature Engineering   
+> Exericse 4: Feature Engineering       
 > Exericse 5: Inferential Statistics and Hypothesis Testing   
 
 ##### Final Project: Exploratory Data Analysis with Auto-mpg dataset.
