@@ -44,3 +44,17 @@ Topics
 > Exericse 5: Non-negative Matrix Factorization         
   
 ##### Final Project:  Unsupervised Machine Learning with New York Stock Exchange Prediction     
+
+# 5. Deep Learning and Reinforcement Learning
+Topics    
+> Exericse 1: Gradient Descent
+> Exericse 2: Intro Neural Networks   
+> Exericse 3: Backpropagation    
+> Exericse 4: Keras Intro    
+> Exericse 5: Convolutional Neural Networks (CNN)
+> Exericse 6: Transfer Learning
+> Exericse 7: Recurrent Neural Networks (RNN)
+> Exericse 8: Autoencoders 
+> Exericse 9: Reinforcement
+> 
+##### Final Project:  Deep Learning and Reinforcement Learning - Covid Prediction from condition of a patient's lung
