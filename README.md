@@ -52,9 +52,9 @@ Topics
 > Exericse 3: Backpropagation    
 > Exericse 4: Keras Intro    
 > Exericse 5: Convolutional Neural Networks (CNN)
-> Exericse 6: Transfer Learning
-> Exericse 7: Recurrent Neural Networks (RNN)
-> Exericse 8: Autoencoders 
-> Exericse 9: Reinforcement
+> Exericse 6: Transfer Learning  
+> Exericse 7: Recurrent Neural Networks (RNN)  
+> Exericse 8: Autoencoders   
+> Exericse 9: Reinforcement  
 > 
 ##### Final Project:  Deep Learning and Reinforcement Learning - Covid Prediction from condition of a patient's lung
