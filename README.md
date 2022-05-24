@@ -51,8 +51,8 @@ Topics
 > Exericse 2: Intro Neural Networks   
 > Exericse 3: Backpropagation    
 > Exericse 4: Keras Intro    
-> Exericse 5: Convolutional Neural Networks (CNN)
-> Exericse 6: Transfer Learning  
+> Exericse 5: Convolutional Neural Networks (CNN)  
+> Exericse 6: Transfer Learning   
 > Exericse 7: Recurrent Neural Networks (RNN)  
 > Exericse 8: Autoencoders   
 > Exericse 9: Reinforcement  
