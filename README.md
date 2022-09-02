@@ -12,9 +12,6 @@ Topics
 
 ##### Final Project: Exploratory Data Analysis with Auto-mpg dataset.
 
-
-<br>
-![image](https://user-images.githubusercontent.com/60510780/188179457-1b8fb1bb-9482-48c6-9aa9-f2d6a5c885d1.png)
 <hr>
 
 
@@ -28,9 +25,6 @@ Topics
 
 ##### Final Project:  Supervised Machine Learning Regression with Car details from Car Dekho   
 
-
-<br>
-![image](https://user-images.githubusercontent.com/60510780/188179393-2fcc62b6-fb42-4144-a180-f285b2af835f.png)
 
 <hr>
 
@@ -47,9 +41,6 @@ Topics
 ##### Final Project:  Supervised Machine Learning Classification with Heart Attack Prediction    
 
 
-<br>
-![image](https://user-images.githubusercontent.com/60510780/188179328-58c56cf1-b1ec-450a-ba5b-3fa4b2f35c0f.png)
-
 
 <hr>
 
@@ -64,11 +55,6 @@ Topics
   
 ##### Final Project:  Unsupervised Machine Learning with New York Stock Exchange Prediction     
 
-
-
-
-<br>
-![image](https://user-images.githubusercontent.com/60510780/188179248-4f137aec-a97b-4dc4-81e9-ff62b2deb50f.png)
 
 
 <hr>
@@ -92,7 +78,5 @@ Topics
 
 
 
-<br>
-![image](https://user-images.githubusercontent.com/60510780/188179555-0bb95b2d-f510-464b-8b50-34ee1a5afb65.png)
 
 <hr>
