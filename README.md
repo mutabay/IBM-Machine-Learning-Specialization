@@ -78,5 +78,19 @@ Topics
 
 
 
+## 6. Specialized Models: Time Series and Survival Analysis
+Topics    
+> Exericse 1: Time Series with Pandas and Numpy   
+> Exericse 2: Decomposition  
+> Exericse 3: Stationarity      
+> Exericse 4: Smoothing    
+> Exericse 5: ARMA    
+> Exericse 6: SARIMA and Prophet      
+> Exericse 7: Time Series Deep Learning  
+> Exericse 8: Survival Analysis   
+> 
+##### Final Project:  Time Series and Survival Analysis - Google Stock Price Forecasting   
+
+
 
 <hr>
