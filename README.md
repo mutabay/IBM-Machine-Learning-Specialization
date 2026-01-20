@@ -1,96 +1,136 @@
-# IBM-Machine-Learning
-IBM Machine Learning Course   
+# IBM Machine Learning Specialization
 
-## 1. Exploratory Data Analysis for Machine Learning   
-Topics    
-> A Brief History of Modern AI and its Applications   
-> Exericse 1: Retrieving Data_1   
-> Exericse 2: Retrieving Data_2     
-> Exericse 3: Exploratory Data Analysis   
-> Exericse 4: Feature Engineering       
-> Exericse 5: Inferential Statistics and Hypothesis Testing   
+Comprehensive machine learning course covering supervised, unsupervised, and deep learning techniques
 
-##### Final Project: Exploratory Data Analysis with Auto-mpg dataset.
+## 📋 Overview
 
-<hr>
+Complete specialization program from IBM covering the full spectrum of machine learning methodologies, from exploratory data analysis to advanced deep learning and time series forecasting.
 
+## 📂 Course Modules
 
-## 2. Supervised Machine Learning Regression   
-Topics    
-> Exericse 1: Transforming Target   
-> Exericse 2: Regression Train Test Split   
-> Exericse 3: Cross Validation    
-> Exericse 4: Regularization and Gradient Descent   
-> Exericse 5: Regularization    
+### [Course 1: Exploratory Data Analysis for Machine Learning](Exploratory%20Data%20Analysis%20For%20ML/)
 
-##### Final Project:  Supervised Machine Learning Regression with Car details from Car Dekho   
+**Topics:**
+- History of modern AI and applications
+- Data retrieval techniques
+- Exploratory data analysis
+- Feature engineering
+- Inferential statistics and hypothesis testing
 
+**Final Project**: Auto-mpg dataset analysis
 
-<hr>
+---
 
+### [Course 2: Supervised Machine Learning - Regression](Supervised%20Machine%20Learning%20Regression/)
 
-## 3. Supervised Machine Learning Classification   
-Topics    
-> Exericse 1: Logistic Regression and Error Metrics   
-> Exericse 2: K-Nearest Neighbour   
-> Exericse 3: Support Vector Machine    
-> Exericse 4: Decision Trees    
-> Exericse 5: Bagging   
-> Exericse 6: Boosting and Stacking   
-  
-##### Final Project:  Supervised Machine Learning Classification with Heart Attack Prediction    
+**Topics:**
+- Target transformation techniques
+- Train-test split strategies
+- Cross-validation methods
+- Regularization and gradient descent
+- Model optimization
 
+**Final Project**: Car price prediction with Car Dekho dataset
 
+---
 
-<hr>
+### [Course 3: Supervised Machine Learning - Classification](Supervised%20Machine%20Learning%20Classification/)
 
+**Topics:**
+- Logistic regression and error metrics
+- K-Nearest Neighbors (KNN)
+- Support Vector Machines (SVM)
+- Decision trees
+- Ensemble methods (Bagging, Boosting, Stacking)
 
-## 4. Unsupervised Machine Learning
-Topics    
-> Exericse 1: K-Means Clustering    
-> Exericse 2: Distance Dimensionality   
-> Exericse 3: Clustering Methods    
-> Exericse 4: Dimensionality Reduction    
-> Exericse 5: Non-negative Matrix Factorization         
-  
-##### Final Project:  Unsupervised Machine Learning with New York Stock Exchange Prediction     
+**Final Project**: Heart attack prediction
 
+---
 
+### [Course 4: Unsupervised Machine Learning](Unsupervised%20Machine%20Learning/)
 
-<hr>
+**Topics:**
+- K-Means clustering
+- Distance metrics and dimensionality
+- Advanced clustering methods
+- Dimensionality reduction techniques
+- Non-negative Matrix Factorization (NMF)
 
+**Final Project**: New York Stock Exchange prediction
 
+---
 
-## 5. Deep Learning and Reinforcement Learning
-Topics    
-> Exericse 1: Gradient Descent
-> Exericse 2: Intro Neural Networks   
-> Exericse 3: Backpropagation    
-> Exericse 4: Keras Intro    
-> Exericse 5: Convolutional Neural Networks (CNN)  
-> Exericse 6: Transfer Learning   
-> Exericse 7: Recurrent Neural Networks (RNN)  
-> Exericse 8: Autoencoders   
-> Exericse 9: Reinforcement  
-> 
-##### Final Project:  Deep Learning and Reinforcement Learning - Covid Prediction from condition of a patient's lung
+### [Course 5: Deep Learning and Reinforcement Learning](Deep%20Learning%20and%20Reinforcement%20Learning/)
 
+**Topics:**
+- Gradient descent optimization
+- Neural network fundamentals
+- Backpropagation
+- Keras framework
+- Convolutional Neural Networks (CNN)
+- Transfer learning
+- Recurrent Neural Networks (RNN)
+- Autoencoders
+- Reinforcement learning basics
 
+**Final Project**: COVID-19 prediction from lung condition analysis
 
+---
 
-## 6. Specialized Models: Time Series and Survival Analysis
-Topics    
-> Exericse 1: Time Series with Pandas and Numpy   
-> Exericse 2: Decomposition  
-> Exericse 3: Stationarity      
-> Exericse 4: Smoothing    
-> Exericse 5: ARMA    
-> Exericse 6: SARIMA and Prophet      
-> Exericse 7: Time Series Deep Learning  
-> Exericse 8: Survival Analysis   
-> 
-##### Final Project:  Time Series and Survival Analysis - Google Stock Price Forecasting   
+### [Course 6: Time Series and Survival Analysis](Time%20Series%20and%20Survival%20Analysis/)
 
+**Topics:**
+- Time series with Pandas and NumPy
+- Decomposition techniques
+- Stationarity testing
+- Smoothing methods
+- ARMA and SARIMA models
+- Prophet forecasting
+- Deep learning for time series
+- Survival analysis
 
+**Final Project**: Google stock price forecasting
 
-<hr>
+---
+
+## 🎯 Learning Outcomes
+
+**Supervised Learning:**
+- Regression and classification techniques
+- Model evaluation and optimization
+- Ensemble methods
+
+**Unsupervised Learning:**
+- Clustering algorithms
+- Dimensionality reduction
+- Pattern discovery
+
+**Deep Learning:**
+- Neural network architectures
+- CNN for computer vision
+- RNN for sequential data
+- Transfer learning applications
+
+**Specialized Techniques:**
+- Time series forecasting
+- Survival analysis
+- Reinforcement learning
+
+## 🛠️ Tools & Technologies
+
+- Python programming
+- Scikit-learn for classical ML
+- Keras/TensorFlow for deep learning
+- Pandas for data manipulation
+- NumPy for numerical computing
+- Statistical analysis libraries
+
+## 📚 Specialization
+
+**Program**: IBM Machine Learning Professional Certificate  
+**Provider**: IBM  
+**Platform**: Coursera
+
+---
+
+*Complete machine learning curriculum from fundamentals to advanced applications*
